@@ -1,15 +1,5 @@
-home\work\command\ICommandHadler.class
 home\work\command\CommandHandManager.class
-home\work\common\currency\CurrencyCSVDataLoader.class
-home\work\common\currency\ICurrencyCalculator.class
-home\work\command\rateCommandHandler$CommandMode.class
-home\work\common\currency\ICurrencyDataLoader.class
 home\work\common\currency\model\CurrencyModel.class
-home\work\common\currency\CurrencyCalculator.class
 home\work\App.class
 home\work\DI.class
 home\work\MyApplicationContextConfiguration.class
-home\work\common\CommandLineResult.class
-home\work\common\CommandLineSeparator.class
-home\work\command\rateCommandHandler.class
-home\work\common\currency\CalcAvgParams.class

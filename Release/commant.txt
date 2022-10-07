@@ -1,4 +1,0 @@
-java -jar home.work1.jar
-
- rate usd week
-rate usd tomorrow
